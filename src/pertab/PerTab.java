@@ -35,6 +35,14 @@ public class PerTab {
                     System.out.println("Atomic Number : 1");
                     System.out.println("Thanks for using ======> ❤️");
                 }
+
+                if (a == 2)
+                {
+                    System.out.println("Name : Helium");
+                    System.out.println("Symbol : He");
+                    System.out.println("Atomic Number : 2");
+                    System.out.println("Thanks for using ======> ❤️");
+                }
             }
         }
         else

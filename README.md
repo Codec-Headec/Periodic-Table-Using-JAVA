@@ -14,9 +14,9 @@ After this,
 >Type as atomic number of which element you want to information (eg. 1, 2, 3, ......, 118.)
 
 ```
-Name : Hydrogen <br>
-Symbol : H <br>
-Atomic Number : 1 <br>
+Name : Hydrogen
+Symbol : H
+Atomic Number : 1
 Thanks for using ======> ❤️ 
 ```
 
