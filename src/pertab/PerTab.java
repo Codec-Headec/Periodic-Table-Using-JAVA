@@ -43,6 +43,38 @@ public class PerTab {
                     System.out.println("Atomic Number : 2");
                     System.out.println("Thanks for using ======> ❤️");
                 }
+
+                if (a == 3)
+                {
+                    System.out.println("Name : Lithium");
+                    System.out.println("Symbol : Li");
+                    System.out.println("Atomic Number : 3");
+                    System.out.println("Thanks for using ======> ❤️");
+                }
+
+                if (a == 4)
+                {
+                    System.out.println("Name : Beryllium");
+                    System.out.println("Symbol : Be");
+                    System.out.println("Atomic Number : 4");
+                    System.out.println("Thanks for using ======> ❤️");
+                }
+
+                if (a == 5)
+                {
+                    System.out.println("Name : Boron");
+                    System.out.println("Symbol : B");
+                    System.out.println("Atomic Number : 5");
+                    System.out.println("Thanks for using ======> ❤️");
+                }
+
+                if (a == 6)
+                {
+                    System.out.println("Name : Carbon");
+                    System.out.println("Symbol : C");
+                    System.out.println("Atomic Number : 6");
+                    System.out.println("Thanks for using ======> ❤️");
+                }
             }
         }
         else
