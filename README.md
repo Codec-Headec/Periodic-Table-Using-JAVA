@@ -26,3 +26,26 @@ You will get information in the above format.
 # Screenshot
 
 <img src="./pics/no.1.png">
+
+# Contributors
+
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/AmeyKuradeAK">
+                    <img src="https://avatars.githubusercontent.com/u/69680874?v=4" width="100px;" alt="Ali Solanki"/>
+                    <br />
+                    <sub><b>Amey Kurade</b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="https://github.com/Codec-Headec">
+                    <img src="https://avatars.githubusercontent.com/u/140528651?v=4" width="100px;" alt="Harsh Pandey"/>
+                    <br />
+                    <sub><b>Codec-Headec</b></sub>
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
